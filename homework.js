@@ -1,6 +1,6 @@
 // Mary Rose's JavaScript Homework
 
-// 1. Write an if/else statement coba di ubah javascript
+// 1. Write an if/else statement coba di ubah 3
 var APPLE_QUANTITY = 5;
 
 if (APPLE_QUANTITY < 5){
@@ -9,7 +9,7 @@ if (APPLE_QUANTITY < 5){
   console.log("You have 5 or more apples. Hurrah!");
 }
 
-// 2. Write a "for" loop
+// 2. Write a "for" loop 
 for(i = 0; i < APPLE_QUANTITY; i ++){
   console.log("WEEEEEEE! I'm looping!")
 }
